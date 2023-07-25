@@ -70,7 +70,7 @@
   <pre>
     <code>SELECT id, nome, preco_unitario, filial_origem
     FROM estoque_pecas
-    WHERE quantidade < 50 AND categoria = 'Filtro';</code>
+    WHERE quantidade < 50 AND categoria = 'Freio';</code>
   </pre>
 
   <h2>7. Consultar itens em estoque de uma filial específica:</h2>
