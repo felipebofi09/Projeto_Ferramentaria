@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Principais Scripts do Projeto Ferramentaria</title>
 </head>
 <body>
   <h1>Principais Scripts do Projeto Ferramentaria</h1>
