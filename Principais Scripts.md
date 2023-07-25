@@ -8,7 +8,7 @@
 
   <h2>1. Consultar todos os itens do Estoque:</h2>
   <pre>
-    <code>SELECT * FROM estoque_pecas_automoveis;</code>
+    <code>SELECT * FROM estoque_pecas;</code>
   </pre>
 
   <h2>2. Atualizar a quantidade de itens no estoque:</h2>
@@ -69,7 +69,7 @@
   <h2>6.2. Consultar itens no estoque com quantidade menor que 50, na categoria Freio, mostrando apenas o nome, preço unitário e filial de origem do item:</h2>
   <pre>
     <code>SELECT id, nome, preco_unitario, filial_origem
-    FROM estoque_pecas_automoveis
+    FROM estoque_pecas
     WHERE quantidade < 50 AND categoria = 'Filtro';</code>
   </pre>
 
