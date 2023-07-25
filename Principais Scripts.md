@@ -92,13 +92,7 @@
     GROUP BY categoria;</code>
   </pre>
 
-  <h2>10. Consultar o valor total em estoque por categoria:</h2>
-  <pre>
-    <code>SELECT categoria, SUM(quantidade * preco_unitario) AS valor_total 
-    FROM estoque_pecas 
-    GROUP BY categoria;</code>
-  </pre>
-
+  
 </body>
 </html>
 
