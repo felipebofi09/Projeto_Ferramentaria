@@ -1,6 +1,6 @@
-<h1 align="center">Projeto: Estoque da Ferramentaria 🧰</h1>
+<h1 align="center">Projeto: Ferramentaria 🧰</h1>
 
-<p align="center">O Projeto Estoque da Ferramentaria é um sistema de banco de dados que armazena informações sobre diferentes Ferramentas e Peças disponíveis em um comércio fictício. Através dele, é possível consultar detalhes sobre cada item presente, como seu ID, nome, marca, quantidade, preço unitário e muitas outras informações. O projeto foi desenvolvido utilizando a linguagem SQL, com foco no banco de dados MySQL.</p>
+<p align="center">O Projeto Ferramentaria é um sistema de banco de dados que armazena informações sobre diferentes Ferramentas e Peças disponíveis em um comércio fictício. Através dele, é possível consultar detalhes sobre cada item presente, como seu ID, nome, marca, quantidade, preço unitário e muitas outras informações. O projeto foi desenvolvido utilizando a linguagem SQL, com foco no banco de dados MySQL.</p>
 
 <h2>Objetivo</h2>
 
