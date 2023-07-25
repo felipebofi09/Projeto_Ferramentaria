@@ -3,8 +3,8 @@
 <head>
 </head>
 <body>
-  <h1>Principais Scripts do Projeto Ferramentaria</h1>
-  <p>Aqui estão os principais scripts para manipular informações no Projeto Ferramentaria: 🛠 </p>
+  <h1>Principais Scripts do Projeto Ferramentaria 🛠 </h1>
+  <p>Aqui estão os principais scripts para manipular informações no Projeto Ferramentaria:</p>
 
   <h2>1. Consultar todos os itens do Estoque:</h2>
   <pre>
